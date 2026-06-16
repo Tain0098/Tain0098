@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Theat Hunt</b>
+- [Threat Hunt Report (Unauthorized TOR Usage)](https://github.com/Tain0098/Threat-Hunt)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tain0098/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tain0098/azure-network-protocols)
