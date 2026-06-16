@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Theat Hunt</b>
-- [Threat Hunt Report (Impossible-Traval-Theat-Hunt)](https://github.com/Tain0098/Impossiable-Traval-Theat-Hunt/blob/main/README.md)
-- [Threat Hunt Report (Unauthorized TOR Usage)](https://github.com/Tain0098/Threat-Hunt)
+  - [Threat Hunt Report (Impossible-Traval-Theat-Hunt)](https://github.com/Tain0098/Impossiable-Traval-Theat-Hunt/blob/main/README.md)
+  - [Threat Hunt Report (Unauthorized TOR Usage)](https://github.com/Tain0098/Threat-Hunt)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tain0098/configure-ad)
