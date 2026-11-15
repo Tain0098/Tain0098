@@ -9,6 +9,7 @@
 - <b>STIG</b>
   - [This PowerShell script ensures that Microsoft consumer experiences are turned off](https://github.com/Tain0098/STIG-1/blob/main/README.md)
   - [This PowerShell script ensures that printing over HTTP is prevented](https://github.com/Tain0098/STIG-2)
+  - [This PowerShell script ensures that default Autorun behavior is configured to prevent executing commands](https://github.com/Tain0098/STIG-3/blob/main/README.md)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tain0098/configure-ad)
