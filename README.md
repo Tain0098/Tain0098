@@ -5,6 +5,8 @@
 - <b>Theat Hunt</b>
   - [Threat Hunt Report (Impossible-Traval-Theat-Hunt)](https://github.com/Tain0098/Impossiable-Traval-Theat-Hunt/blob/main/README.md)
   - [Threat Hunt Report (Unauthorized TOR Usage)](https://github.com/Tain0098/Threat-Hunt)
+  - [Operation ECHOLEAK Incident Response Report](https://github.com/Tain0098/Operation-ECHOLEAK-Incident-Response-Report/blob/main/Operation%20ECHOLEAK%20Incident%20Response%20Report%20(2).pdf)
+
 
 - <b>STIG</b>
   - [This PowerShell script ensures that Microsoft consumer experiences are turned off](https://github.com/Tain0098/STIG-1/blob/main/README.md)
