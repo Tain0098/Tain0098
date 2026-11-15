@@ -6,6 +6,9 @@
   - [Threat Hunt Report (Impossible-Traval-Theat-Hunt)](https://github.com/Tain0098/Impossiable-Traval-Theat-Hunt/blob/main/README.md)
   - [Threat Hunt Report (Unauthorized TOR Usage)](https://github.com/Tain0098/Threat-Hunt)
 
+- <b>STIG</b>
+  - [This PowerShell script ensures that Microsoft consumer experiences are turned off](https://github.com/Tain0098/STIG-1/blob/main/README.md)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tain0098/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tain0098/azure-network-protocols)
